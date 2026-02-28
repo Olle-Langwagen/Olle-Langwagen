@@ -1,11 +1,4 @@
 # Hi, I'm Olle Langwagen
-**I switch between memory management in C and centering divs in CSS so often I sometimes forget which syntax I'm using.**
-#### Based in Västerås, Sweden. A guy focused on **Full-Stack Web** & **Systems Level** programming through work and my BSc in Computer Science.
-
-
-_(My brain actually broke going back to HTML basics trying to make this readme...)_
-
-
 
 <br>
 <table>
@@ -47,8 +40,6 @@ _(My brain actually broke going back to HTML basics trying to make this readme..
   </tr>
 </table>
 <br>
-
-> **Current status:** Probably debugging a race condition or reinstalling Linux (CachyOS) for the 4th time this month. (Actually learning F# and OS in uni)
 
 check out my [portfolio](https://www.ollelangwagen.se/) or [linkedIn](https://www.linkedin.com/in/olle-langwagen/) :)
 
