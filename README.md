@@ -8,7 +8,7 @@
       <i>Backend & Systems</i><br>
       <br>
       i like languages that yell at me when I'm wrong.<br>
-      F# and C are my favorites.<br>
+      F# and C are my favorites.<br><br>
       <br>
       <code>F#</code> <code>C</code> <code>Python</code> <code>SQL</code> <code>JS/(TS)</code> <code>(PHP)</code> <code>(C#)</code>
     </td>
